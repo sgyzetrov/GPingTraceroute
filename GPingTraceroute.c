@@ -1,7 +1,7 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
  * Name: C implementation of ICMP ping and traceroute       
  * Program: GPingTraceroute.c
- * Auther: Guo Yang <guoyang@hzau.edu.cn>
+ * Auther: Guo Yang <guoyang@webmail.hzau.edu.cn>
  * Version: 0.0.2
  * Date(mm/dd/yyyy): 12/19/2017
  * Description: 
