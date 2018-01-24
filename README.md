@@ -19,3 +19,8 @@ put `GPingTraceroute.c` and `GPingTraceroute.h` in one same folder, and then ent
 ```shell
 gcc GPingTraceroute.c -o GPingTraceroute
 ```
+## todo
+
+- [x] add traceroute implementation
+
+- [ ] translate comments into English🤣
