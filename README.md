@@ -23,4 +23,4 @@ gcc GPingTraceroute.c -o GPingTraceroute
 
 - [x] add traceroute implementation
 
-- [ ] translate comments into English🤣
+- [x] translate comments into English🤣
